@@ -1,0 +1,24 @@
+body { background-color: aquamarine;
+    color: #000000; 
+    font-family: arial, helvetica, sans-serif;
+}
+
+h1 {
+    border: 2px solid black;
+    font-size: 20px;
+}   
+
+.box-1 {
+    background-color: #000 color azure;
+    border-right:5px cornflowerblue solid;
+    border-left:5px cornflowerblue solid;
+    border-top:5px cornflowerblue solid;
+    border-bottom:5px cornflowerblue solid;
+
+    border-width: 5px;
+
+    padding: 20px;
+    margin: 35px 5px;    
+} 
+title {color: darkblue;
+}
